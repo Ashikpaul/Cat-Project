@@ -85,9 +85,6 @@ class App extends Component{
             <div className="navDark d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 border-bottom box-shadow orange">
               <h5 className="my-0 mr-md-auto font-weight-normal">Blah Rules</h5>
               <nav className="my-2 my-md-0 mr-md-3 ">
-                <a className="p-2 text-light" href="#">Users</a>
-                <a className="p-2 text-light" href="#">Porjects</a>
-                <a className="p-2 text-light" href="#">About</a>
                 <a className="p-2 text-light" href="https://www.linkedin.com/in/ashik-paul-2ab793130/">Contact</a>
                 {/* <a className="p-2 text-light" href="#">Support</a> */}
               </nav>
